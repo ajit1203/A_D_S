@@ -43,30 +43,30 @@ project/
 ## Installation
 
 1. Clone the repository:
-   bash
+   ```bash
     git clone https://github.com/NithinAruva/AccidentDetectionSystem.git
     cd AccidentDetectionSystem
-   
+   ```
 
 2. Set up a virtual environment:
-   bash
+   ```bash
    python3 -m venv venv
    venv\Scripts\activate
-   
+   ```
 
 3. Install dependencies:
-   bash
+   ```bash
    pip install -r requirements.txt
-   
+   ```
    
 ## How to Run
 
 !. Open a terminal or command prompt and navigate to the project directory.
 
 2. Run the application:
-   bash
+   ```bash
    python main.py
-   
+   ```
 3.Use the GUI to:
 
  - Click "Upload Video & Detect Accident".
